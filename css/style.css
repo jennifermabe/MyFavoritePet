@@ -1,0 +1,44 @@
+nav {
+    padding: 5px;
+    background-color: slategray;
+}
+.navigation {
+    display: inline-block;
+    padding: 10px 20px;
+    color: white;
+    font-family: helvetica;
+}
+aside {
+    width: 27%;
+    height: 500px;
+    display: inline-block;
+    padding: 20px;
+    background-color: gainsboro;
+    vertical-align: top;
+}
+.content {
+    width: 67%;
+    height: 500px;
+    display: inline-block;
+    padding: 20px;
+    background-color: lightblue;
+}
+.li_Title {
+    font-weight: bold;
+}
+#Remus04 {
+    width: 200px;
+}
+#Remus02 {
+    width: 200px;
+}
+#Remus01 {
+    width: 200px;
+}
+#Remus03 {
+    float: left;
+    width: 200px;
+}
+#Remus05 {
+    width: 200px;
+}
